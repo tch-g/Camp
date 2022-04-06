@@ -1,4 +1,4 @@
-    body {
+      body {
         margin: 0;
         padding: 0;
         font-family: Georgia, 'Times New Roman', Times, serif;
@@ -191,7 +191,7 @@
         resize: vertical;
     }
     
-    [type="submit"] {
+    [type="button"] {
         font-family: 'Montserrat', Arial, Helvetica, sans-serif;
         width: 100%;
         border-radius: 5px;
@@ -206,7 +206,7 @@
         font-weight: 700;
     }
     
-    [type="submit"]:hover {
+    [type="button"]:hover {
         background: #e0d495;
     }
     
@@ -374,7 +374,7 @@
         .poster {
             padding: 10px;
             text-align: center;
-            font-size: 38px;
+            font-size: 30px;
             display: flex;
             justify-content: center;
         }
